@@ -9,7 +9,7 @@ The contract is set to serve as playground for building ERC20 Standard tokens.
 Cairo enables programs to prove they've done the right computation, even when executed on untrusted machines.
 
 ### Installation
-To get started with cairo projects and create a new project file on Cairo, be sure to have installed the [scarb](https://github.com/software-mansion/scarb) CLI. you can then copy this repo url and run
+To get started with cairo projects and create a new project file on Cairo, be sure to have installed the [scarb](https://github.com/software-mansion/scarb) CLI. you can then clone this repo [url](https://github.com/GitTM527/Cairo-Erc20.git) and run
 
 ```
 Scarb build
